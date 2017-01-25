@@ -11,7 +11,7 @@ gulp.task('default', function(){
 });
 
 gulp.task('html', function(){
-	console.log('Hello world');
+	console.log('index.html file changed.');
 });
 
 gulp.task('styles', function(){
