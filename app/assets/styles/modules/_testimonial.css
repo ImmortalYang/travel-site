@@ -24,10 +24,6 @@
 		font-size: 1.5rem;
 		font-weight: 500;
 		margin: 0;
-
-		@mixin atSmall{
-
-		}
 	}
 
 	&__subtitle{
@@ -36,10 +32,6 @@
 		font-size: 0.9375rem;
 		font-weight: 400;
 		margin: 0.25rem 0 1rem 0;
-
-		@mixin atSmall{
-
-		}
 	}
 
 	&--last{
